@@ -1,8 +1,8 @@
-## Project Title
-**Exploring the Evolution of Human Resource Analytics and its Impact on Organisational Performance**
-
 # HR_Analytics
 HR Analytics project leveraging data-driven insights to optimize workforce performance, retention, and recruitment strategie
+
+## Project Title
+**Exploring the Evolution of Human Resource Analytics and its Impact on Organisational Performance**
 
 ## Introduction
 Human resources analytics involves using data and statistical analysis to gain insights into an organization's workforce. This project examines how HR analytics can improve performance, engagement, and decision-making.
